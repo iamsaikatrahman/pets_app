@@ -1,28 +1,12 @@
 import 'package:flutter/material.dart';
 
-import '../data/data.dart';
-
 class CustomCard extends StatelessWidget {
-  // final String imgUrl;
-  // final String title;
-  // final String location;
-  // final String author;
   final List itemList;
   final bool isGroup;
-  // int? members;
-  // int? stock;
-  // double? price;
-  CustomCard({
+  const CustomCard({
     Key? key,
-    // required this.imgUrl,
-    // required this.title,
-    // required this.location,
-    // required this.author,
     required this.itemList,
     required this.isGroup,
-    // this.members,
-    // this.stock,
-    // this.price,
   }) : super(key: key);
 
   @override
