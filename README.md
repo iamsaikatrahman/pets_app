@@ -6,4 +6,4 @@ For this app, I collect design from [Dribbble](https://dribbble.com/shots/111984
 
 ## Screenshot
 
-[online documentation](./screenshots/petsapp.jpg)
+![Screen shots](./screenshots/petsapp.jpg)
